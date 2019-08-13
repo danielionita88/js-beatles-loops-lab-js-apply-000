@@ -1,5 +1,5 @@
 // add solution here
 function theBeatlesPlay(musician,instrument) {
-  var i = [];
-  for 
+  var ceva = [];
+  ceva.push(`${musician} \+ plays ${instrument}`)
 }
